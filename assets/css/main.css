@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    font-size: 64px;
+    line-height: 140%;
+    font-weight: 800;
+  }
+
+  h2 {
+    font-size: 40px;
+    line-height: 140%;
+    font-weight: 700;
+  }
+
+  h3 {
+    font-size: 32px;
+    line-height: 140%;
+    font-weight: 800;
+  }
+}
